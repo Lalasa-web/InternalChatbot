@@ -17,3 +17,6 @@ __pycache__/
 
 # Ignore VS Code settings
 .vscode/
+
+# Chroma vector database (binary files)
+chroma_db/
